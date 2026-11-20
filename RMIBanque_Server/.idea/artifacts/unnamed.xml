@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="module-output" name="RMIBanque_Server" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/metier/Compte.java" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/rmiService/IBanque.java" />
+    </root>
+  </artifact>
+</component>
